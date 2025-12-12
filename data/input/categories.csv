@@ -1,0 +1,26 @@
+id,category,parent_id
+1,Electronics,
+2,Phones,1
+3,Accessories,1
+4,Cases,3
+5,Laptops,1
+6,Tablets,1
+7,Audio,1
+8,Headphones,7
+9,Speakers,7
+10,Smartphones,2
+11,Feature Phones,2
+12,Chargers,3
+13,Cables,3
+14,Power Banks,3
+15,Screen Protectors,3
+16,Bags,5
+17,Docks,5
+18,Keyboards,5
+19,Mice,5
+20,Stands,5
+21,Cases (Laptop),5
+22,Cases (Phone),2
+23,Cases (Tablet),6
+24,Adapters,3
+25,Cleaning Kits,3

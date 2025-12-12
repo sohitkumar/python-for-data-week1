@@ -1,0 +1,21 @@
+2025-12-12T09:01:22Z INFO Startup complete
+2025-12-12T09:02:10Z INFO Health check passed
+2025-12-12T09:03:45Z INFO User login success uid=1001
+2025-12-12T09:04:12Z WARNING Disk usage high
+2025-12-12T09:05:03Z WARNING CPU usage high
+2025-12-12T09:06:44Z ERROR Failed to connect to DB
+2025-12-12T09:07:10Z ERROR Timeout while reading
+2025-12-12T09:08:33Z INFO Job scheduler started
+2025-12-12T09:09:01Z ERROR Missing config key: API_TOKEN
+2025-12-12T09:10:22Z INFO Cache warmed
+2025-12-12T09:11:47Z WARNING Memory pressure
+2025-12-12T09:12:02Z INFO User logout uid=1001
+2025-12-12T09:13:14Z ERROR Permission denied
+2025-12-12T09:14:55Z INFO Backup started
+2025-12-12T09:15:37Z WARNING Network latency
+2025-12-12T09:16:29Z ERROR File not found: /var/data/report.csv
+2025-12-12T09:17:40Z INFO Backup completed
+2025-12-12T09:18:21Z INFO Service restarted
+2025-12-12T09:19:09Z ERROR Unhandled exception NullPointer
+2025-12-12T09:20:30Z WARNING Deprecated API used
+2025-12-12T09:21:11Z INFO Shutdown initiated
