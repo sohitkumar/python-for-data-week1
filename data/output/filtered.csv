@@ -1,0 +1,11 @@
+id,name,department,salary,join_date
+1,Alice,Engineering,85000.0,2022-01-15
+4,Diana,Engineering,95000.0,2019-08-10
+7,George,Engineering,105000.0,2018-07-22
+10,Julia,Engineering,99000.0,2019-03-19
+14,Nia,Engineering,88000.0,2022-05-25
+15,Omar,Data,83000.0,2020-10-05
+18,Raj,Engineering,115000.0,2017-06-15
+21,Uma,Engineering,90000.0,2019-01-09
+24,Xavier,Data,86000.0,2018-10-28
+25,Yara,Engineering,93000.0,2021-02-02
