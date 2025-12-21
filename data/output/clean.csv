@@ -1,0 +1,26 @@
+id ,Name ,Department ,salary ,note
+1,alice  ,engineering ,85000.0,  promoted 
+2,bob ,data ,,missing salary
+3,charlie,hr ,62000.0, new hire
+4,diana ,engineering ,95000.0, promoted
+5,evan ,finance ,68000.0,  review due
+6,fiona ,data ,, pending docs
+7,george ,engineering ,105000.0,   high performer
+8,helen ,marketing ,63000.0,  onboarded
+9,ian ,hr ,54000.0, probation
+10,julia ,engineering ,99000.0,  promoted  
+11,karan ,data ,,missing
+12,lina ,finance ,71000.0,  transfer
+13,mohan ,marketing ,59000.0, case study
+14,nia ,engineering ,88000.0,cleanup
+15,omar ,data ,83000.0,  meeting
+16,preeti ,hr ,56000.0,  updated  
+17,quinn ,finance ,76000.0,  audit
+18,raj ,engineering ,115000.0, raise
+19,sam ,marketing ,,  pending  
+20,tara ,data ,72000.0,"  ,extra comma"
+21,uma ,engineering ,90000.0,  spaces   
+22,vikram ,finance ,70000.0, caps 
+23,wendy ,hr ,51000.0, tabs\tinside
+24,xavier ,data ,86000.0, newline\ninside
+25,yara ,engineering ,93000.0,   multiple   spaces  
