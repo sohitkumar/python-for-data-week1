@@ -1,0 +1,5 @@
+[
+  {"order_id": 501, "customer": "John Doe", "total": 1025.49, "status": "shipped"},
+  {"order_id": 502, "customer": "Jane Smith", "total": 149.99, "status": "delivered"},
+  {"order_id": 503, "customer": "Bob Johnson", "total": 31.49, "status": "pending"}
+]

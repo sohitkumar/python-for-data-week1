@@ -1,0 +1,14 @@
+{
+  "app_name": "DataProcessor",
+  "version": "2.1.0",
+  "settings": {
+    "max_retries": 3,
+    "timeout": 30,
+    "debug_mode": false
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "production_db"
+  }
+}
